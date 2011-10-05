@@ -13,7 +13,7 @@ Pada UC. 01 ini Aktor yang terlibat antara lain :
 
 Berikut ini adalah penjelasan dari UC.01 :
 
-Admin, guru atau pegawai sekolah yang kemudian disebut sebagai user, berada dalam halaman login kemudian mengisikan text field Nama Pengguna sebanyak 6 digit lalu mengisikan text field Kata Kunci sebanyak 6 digit dan dilanjutkan dengan menekan tombol Masuk. Sistem akan membuat user yang memiliki Nama Pengguna dan Kata Kunci berdasarkan isian pada text field Nama Pengguna dan Kata Kunci lalu mencari aktor tersebut pada tabel atau daftar user dan menemukan user tersebut kemudian sistem akan menampilkan halaman utama.
+Admin, guru atau pegawai sekolah yang kemudian disebut sebagai user, berada dalam halaman login kemudian mengisikan text field Nama Pengguna sebanyak 6 karakter lalu mengisikan text field Kata Kunci sebanyak 6 karakter dan dilanjutkan dengan menekan tombol Masuk. Sistem akan membuat user yang memiliki Nama Pengguna dan Kata Kunci berdasarkan isian pada text field Nama Pengguna dan Kata Kunci lalu mencari aktor tersebut pada tabel atau daftar user dan menemukan user tersebut kemudian sistem akan menampilkan halaman utama.
 
 Apabila salah satu text field atau bahkan keduanya kosong maka sistem akan menampilkan pesan kesalahan berupa peringatan kepada user untuk mengisi kembali text field yang tersedia
 
@@ -98,4 +98,4 @@ Pada UC. 08 ini aktor yang terlibat antara lain :
 
 Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Siswa, kemudian memasukkan nama atau sebagian nama dari nama siswa di text field pencarian kemudian menekan tombol Tampil. Sistem kemudian akan mencari data user sesuai dengan isian text field pada tabel User, kemudian sistem akan menampilkan data dari user yang ditemukan.
 
-Apabila sistem tidak menemukan data user berdasarkan isian yang diisikan Admin pada text field pencarian, maka sistem akan memberitahukan user bahwa Siswa Tidak Ditemukan dan sistem akan mengembalikan user ke halaman Siswa.
+Apabila sistem tidak menemukan data siswa berdasarkan isian yang diisikan user pada text field pencarian, maka sistem akan memberitahukan user bahwa Siswa Tidak Ditemukan dan sistem akan mengembalikan user ke halaman Siswa.
