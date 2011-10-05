@@ -147,18 +147,34 @@ Admin (Administrator), Petugas TU, Guru memilih menu LIHAT SEMESTER. Sistem akan
 
 Aktor : Admin (Administrator), Petugas TU, Guru
 
-Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA PER SISWA. Sistem akan menampilkan data siswa sesuai dengan data yang tersimpan dalam sistem.
-
+Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA PER SISWA. Sistem akan menampilkan di layar data siswa sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 == UC.16 Cetak data siswa per kelas ==
 
 Aktor : Admin (Administrator), Petugas TU, Guru
 
-Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER KELAS. Sistem akan menampilkan data siswa per kelas sesuai dengan data yang tersimpan dalam sistem.
+Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER KELAS. Sistem akan menampilkan di layar data siswa per kelas sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 
 == UC.17 Cetak data siswa per tingkat ==
 
 Aktor : Admin (Administrator), Petugas TU, Guru
 
-Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER TINGKAT. Sistem akan menampilkan data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem.
+Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER TINGKAT. Sistem akan menampilkan di layar data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
+
+
+
+
+
+
+
+
+
+
+== UC.26 Cetak laporan konfirmasi per bulan ==
+
+Aktor : Admin (Administrator), Petugas TU
+
+Admin (Administrator) dan Petugas TU yang selanjutnya disebut pengguna memilih menu CETAK LAPORAN KONFIRMASI PER BULAN. Sistem akan menampilkan di layar daftar absensi siswa beserta status konfirmasi dari orang tua/ wali murid, juga terdapat pilihan untuk cetak di printer.
+
+
