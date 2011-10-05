@@ -64,6 +64,8 @@ Admin berada pada halaman Pengguna, kemudian memasukkan nama atau sebagian nama 
 
 Apabila sistem tidak menemukan data user berdasarkan isian yang diisikan Admin pada text field pencarian, maka sistem akan memberitahukan Admin bahwa User Tidak Ditemukan dan sistem akan mengembalikan Admin ke halaman Pengguna.
 
+Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH PENGGUNA dan HAPUS PENGGUNA.
+
 
 == UC.06 Tambah Siswa _(Add Siswa)_ ==
 
@@ -75,6 +77,8 @@ Pada UC. 06 ini aktor yang terlibat antara lain :
 Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Tambah Siswa, kemudian mengisikan text field data user yang terdiri dari NIS (Nomor Induk SIswa), Nama Siswa, Kelas(menu drop down), Semester(menu drop down), Nama Orang Tua, Alamat, Nomor Telepon Orang Tua, Tahun kemudian dilanjutkan dengan menekan tombol Tambah. Sistem kemudian akan melakukan penyimpanan data-data yang sudah di masukkan di text field yang disediakan ke dalam tabel Siswa dan memberikan informasi bahwa Penambahan Siswa berhasil
 
 Apabila user tidak melengkapi atau mengisi semua tex filed yang tersedia maka sistem akan menampilkan peringatan isian data tidak lengkap agar user melengkapi isian text field tersebut.
+
+Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH SISWA dan HAPUS SISWA.
 
 
 == UC.07 Ubah Siswa _(Edit Siswa)_ ==
@@ -220,3 +224,31 @@ Petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi.
 Aktor : Admin (Administrator), Petugas TU
 
 Admin (Administrator) dan Petugas TU yang selanjutnya disebut pengguna memilih menu CETAK LAPORAN KONFIRMASI PER BULAN. Sistem akan menampilkan di layar daftar absensi siswa beserta status konfirmasi dari orang tua/ wali murid, juga terdapat pilihan untuk cetak di printer.
+
+
+== UC.27 HAPUS PENGGUNA _(Delete User)_ ==
+
+Aktor : Admin (Administrator)
+
+Admin memilih tombol HAPUS PENGGUNA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data pengguna tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data pengguna tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan pengguna. 
+
+
+== UC.28 HAPUS SISWA _(Delete Siswa)_ ==
+
+Aktor : Admin (Administrator)
+
+Admin memilih tombol HAPUS SISWA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data siswa tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data siswa tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan siswa.
+
+
+== UC.29 HAPUS KELAS _(Delete Kelas)_ ==
+
+Aktor : Admin (Administrator)
+
+Admin memilih tombol HAPUS KELAS, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data kelas tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data kelas tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan kelas. 
+
+
+== UC.31 HAPUS SEMESTER _(Delete Semester)_ ==
+
+Aktor : Admin (Administrator)
+
+Admin memilih tombol HAPUS SEMESTER, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data semester tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data semester tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan semester. 
