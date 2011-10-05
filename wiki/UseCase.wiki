@@ -78,8 +78,6 @@ Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada hal
 
 Apabila user tidak melengkapi atau mengisi semua tex filed yang tersedia maka sistem akan menampilkan peringatan isian data tidak lengkap agar user melengkapi isian text field tersebut.
 
-Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH SISWA dan HAPUS SISWA.
-
 
 == UC.07 Ubah Siswa _(Edit Siswa)_ ==
 
@@ -103,6 +101,8 @@ Pada UC. 08 ini aktor yang terlibat antara lain :
 Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Siswa, kemudian memasukkan nama atau sebagian nama dari nama siswa di text field pencarian kemudian menekan tombol Tampil. Sistem kemudian akan mencari data user sesuai dengan isian text field pada tabel User, kemudian sistem akan menampilkan data dari user yang ditemukan.
 
 Apabila sistem tidak menemukan data siswa berdasarkan isian yang diisikan user pada text field pencarian, maka sistem akan memberitahukan user bahwa Siswa Tidak Ditemukan dan sistem akan mengembalikan user ke halaman Siswa.
+
+Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH SISWA dan HAPUS SISWA.
 
 
 == UC.09 TAMBAH KELAS _(Add Kelas)_ ==
