@@ -234,28 +234,32 @@ Admin (Administrator) dan Petugas TU yang selanjutnya disebut pengguna memilih m
 
 Aktor : Admin (Administrator)
 
-Admin memilih tombol HAPUS PENGGUNA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data pengguna tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data pengguna tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan pengguna. 
+Admin memilih menu HAPUS PENGGUNA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data pengguna tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data pengguna tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan pengguna. 
 
 
 == UC.28 HAPUS SISWA _(Delete Siswa)_ ==
 
 Aktor : Admin (Administrator)
 
-Admin memilih tombol HAPUS SISWA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data siswa tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data siswa tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan siswa.
+Admin memilih menu HAPUS SISWA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data siswa tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data siswa tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan siswa.
 
 
 == UC.29 HAPUS KELAS _(Delete Kelas)_ ==
 
 Aktor : Admin (Administrator)
 
-Admin memilih tombol HAPUS KELAS, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data kelas tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data kelas tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan kelas. 
+Admin memilih menu HAPUS KELAS, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data kelas tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data kelas tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan kelas. 
 
 
 == UC.30 HAPUS SEMESTER _(Delete Semester)_ ==
 
 Aktor : Admin (Administrator)
 
-Admin memilih tombol HAPUS SEMESTER, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data semester tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data semester tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan semester. 
+Admin memilih menu HAPUS SEMESTER, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data semester tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data semester tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan semester. 
 
 
 == UC.31 PENGATURAN TANGGAL ==
+
+Aktor : Admin (Administrator)
+
+Admin memilih menu PENGATURAN TANGGAL, lalu memilih tanggal libur sekolah lalu menekan tombol simpan. Sistem akan menyimpan data tersebut sehingga sistem secara otomatis akan melewati tanggal yang telah diatur sebagai hari libur pada saat pengisian absensi.
