@@ -1,0 +1,101 @@
+#labels Featured,Phase-Requirements
+= USE CASE ARAS =
+
+Berikut ini merupakan daftar use case dari ARAS beserta deskripsi dari masing-masing use case tersebut :
+
+
+== UC.01 Login ==
+
+Pada UC. 01 ini Aktor yang terlibat antara lain :
+ # Admin
+ # Guru
+ # Pegawai Sekolah / TU
+
+Berikut ini adalah penjelasan dari UC.01 :
+
+Admin, guru atau pegawai sekolah yang kemudian disebut sebagai user, berada dalam halaman login kemudian mengisikan text field Nama Pengguna sebanyak 6 digit lalu mengisikan text field Kata Kunci sebanyak 6 digit dan dilanjutkan dengan menekan tombol Masuk. Sistem akan membuat user yang memiliki Nama Pengguna dan Kata Kunci berdasarkan isian pada text field Nama Pengguna dan Kata Kunci lalu mencari aktor tersebut pada tabel atau daftar user dan menemukan user tersebut kemudian sistem akan menampilkan halaman utama.
+
+Apabila salah satu text field atau bahkan keduanya kosong maka sistem akan menampilkan pesan kesalahan berupa peringatan kepada user untuk mengisi kembali text field yang tersedia
+
+Apabila isian salah satu text field tersebut tidak ditemukan di data user maka sistem akan menampilkan pesan kesalahan berupa peringatan kepada user bahwa Nama Penggguna atau Kata Kunci tidak ditemukan.
+
+
+== UC.02 Logout ==
+
+Pada UC. 02 ini Aktor yang terlibat antara lain :
+ # Admin
+ # Guru
+ # Pegawai Sekolah / TU
+
+Berikut ini adalah penjelasan dari UC.02 :
+
+Admin, guru atau pegawai sekolah yang kemudian disebut sebagai user, berada pada halaman utama/Home aplikasi kemudian menekan tombol Logout atau Keluar. Sistem kemudian menampilkan peringatan apakah user akan benar-benar keluar atau tidak, bila user mengkonfirmasi dengan menekan tombol Ya, maka sistem akan mengeluarkan user dari aplikasi dan membawa user ke halaman login
+
+Apabila user memilih konfirmasi Tidak aka sistem akan membawa user ke menu atau halaman utama/Home.
+
+
+== UC.03 Tambah Pengguna _(Add User)_ ==
+
+Pada UC.03 ini Aktor yang terlibat adalah Admin.
+
+Admin sebagai user berada pada halaman Tambah Pengguna, kemudian mengisikan text field data user yang terdiri dari Nama, NIP, Nama Pengguna, Kata Kunci, Nomor Telepon dilanjutkan dengan menekan tombol Tambah. Sistem kemudian akan melakukan penyimpanan data-data yang sudah di masukkan di text field yang disediakan ke dalam tabel User dan memberikan informasi bahwa Penambahan User berhasil
+
+Apabila admin tidak melengkapi atau mengisi semua tex filed yang tersedia maka sistem akan menampilkan peringatan isian data tidak lengkap agar admin melengkapi isian text field tersebut.
+
+Apabila admin kurang mengisikan digit untuk Nama Pengguna ataupun Kata Kunci (kurang dari 6 digit), maka sistem akan menampilkan peringatan agar sistem melengkapi Nama Pengguna atau Kata Kunci sesuai dengan jumlah digit yang ditetapkan.
+
+
+== UC.04 Ubah Pengguna _(Edit User)_ ==
+
+Pada UC.04 ini Aktor yang terlibat adalah Admin.
+
+Admin sebagai user berada pada halaman user atau pengguna, kemudian menekan  tombol edit kemudian sistem akan membawa user ke halaman edit user / pengguna. Disini user data melakukan perubahan terhadap data yang terdapat pada text field Nama, NIP, Nama Pengguna, Kata Kunci, Nomor Telepon. Setelah user melakukan perubahan kemudian menekan tombol simpan dan sistem akan menyimpan perubahan yang dilakkan pada text field yang ada pada tabel user dan sistem akan memberitahukan user bahwa proses perubahan berhasil.
+
+Apabila admin tidak melengkapi atau mengisi semua tex filed yang tersedia maka sistem akan menampilkan peringatan isian data tidak lengkap agar admin melengkapi isian text field tersebut.
+
+Apabila admin kurang mengisikan digit untuk Nama Pengguna ataupun Kata Kunci (kurang dari 6 digit), maka sistem akan menampilkan peringatan agar sistem melengkapi Nama Pengguna atau Kata Kunci sesuai dengan jumlah digit yang ditetapkan. 
+
+
+== UC.05 Lihat Pengguna _(View User)_ ==
+
+Pada UC.05 ini, aktor yang terlibat adalah Admin
+
+Admin berada pada halaman Pengguna, kemudian memasukkan nama atau sebagian nama dari pengguna di text field pencarian kemudian menekan tombol Tampil. Sistem kemudian akan mencari data user sesuai dengan isian text field pada tabel User, kemudian sistem akan menampilkan data dari user yang ditemukan.
+
+Apabila sistem tidak menemukan data user berdasarkan isian yang diisikan Admin pada text field pencarian, maka sistem akan memberitahukan Admin bahwa User Tidak Ditemukan dan sistem akan mengembalikan Admin ke halaman Pengguna.
+
+
+== UC.06 Tambah Siswa _(Add Siswa)_ ==
+
+Pada UC. 06 ini aktor yang terlibat antara lain :
+ # Admin
+ # Guru
+ # Pegawai Sekolah / TU
+
+Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Tambah Siswa, kemudian mengisikan text field data user yang terdiri dari NIS (Nomor Induk SIswa), Nama Siswa, Kelas(menu drop down), Semester(menu drop down), Nama Orang Tua, Alamat, Nomor Telepon Orang Tua kemudian dilanjutkan dengan menekan tombol Tambah. Sistem kemudian akan melakukan penyimpanan data-data yang sudah di masukkan di text field yang disediakan ke dalam tabel Siswa dan memberikan informasi bahwa Penambahan Siswa berhasil
+
+Apabila user tidak melengkapi atau mengisi semua tex filed yang tersedia maka sistem akan menampilkan peringatan isian data tidak lengkap agar user melengkapi isian text field tersebut.
+
+
+== UC.07 Ubah Siswa _(Edit Siswa)_ ==
+
+Pada UC. 07 ini aktor yang terlibat antara lain : 
+ # Admin
+ # Guru
+ # Pegawai Sekolah / TU
+
+Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Siswa, kemudian menekan tombol Ubah dan kemudian sistem akan membawa user ke halaman edit user / pengguna. di halaman ini user data melakukan perubahan terhadap data yang terdapat pada text field NIS (Nomor Induk SIswa), Nama Siswa, Kelas(menu drop down), Semester(menu drop down), Nama Orang Tua, Alamat, Nomor Telepon Orang Tua. Setelah user melakukan perubahan kemudian menekan tombol simpan dan sistem akan menyimpan perubahan yang dilakkan pada text field yang ada pada tabel Siswa dan sistem akan memberitahukan user bahwa proses perubahan berhasil.
+
+Apabila user tidak melengkapi atau mengisi semua tex filed yang tersedia maka sistem akan menampilkan peringatan isian data tidak lengkap agar user melengkapi isian text field tersebut.
+
+
+== UC.08 Lihat Siswa _(View Siswa)_ ==
+
+Pada UC. 08 ini aktor yang terlibat antara lain :
+ # Admin
+ # Guru
+ # Petugas TU sekolah
+
+Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Siswa, kemudian memasukkan nama atau sebagian nama dari nama siswa di text field pencarian kemudian menekan tombol Tampil. Sistem kemudian akan mencari data user sesuai dengan isian text field pada tabel User, kemudian sistem akan menampilkan data dari user yang ditemukan.
+
+Apabila sistem tidak menemukan data user berdasarkan isian yang diisikan Admin pada text field pencarian, maka sistem akan memberitahukan user bahwa Siswa Tidak Ditemukan dan sistem akan mengembalikan user ke halaman Siswa.
