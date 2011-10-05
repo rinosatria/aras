@@ -163,6 +163,50 @@ Aktor : Admin (Administrator), Petugas TU, Guru
 Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER TINGKAT. Sistem akan menampilkan di layar data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 
+== UC.18 Add Absensi ==
+
+Actor: Guru
+
+Guru sebagai user masuk ke dalam halaman menu absensi. Didalamnya terdapat submenu “tambah”, “lihat” dan “cetak”. Kemudian pilih submenu “tambah”. Sistem akan mengarahkan ke halaman tambah absensi. User kemudian memilih kelas, semester, serta tanggal (secara default tanggalnya adalah tanggal hari ini). Sistem akan memunculkan daftar siswa sesuai dengan pilihan yang dilakukan oleh user. Kemudian user akan melakukan input absensi (default absensi memiliki nilai “masuk”). Untuk siswa yang tidak masuk, user memilih alasan siswa tersebut tidak masuk. Sistem akan menampilkan absensi sesuai pilihan user pada kolom keterangan sebelah kanan. Setelah user memasukkan semua data absensi,tekan tombol simpan. Sistem akan menampilkan kotak dialog “Apakah user yakin untuk menyimpan?”, dengan pilihan jawaban Ya atau Tidak. Jika User memilih “Ya”, maka system akan menyimpan data absensi dan mengembalikan ke menu absensi. Jika user memilih “Tidak” maka system akan menampilkan halaman tambah absensi kembali.
+
+== UC.19 View data absensi harian ==
+
+Actor: Admin, guru, petugas TU 
+
+Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi. Kemudian user memilih submenu “lihat” absensi. Kemudian pada submenu “lihat” absensi tersebut akan muncul pilihan submenu harian, bulanan, atau semesteran. User memilih harian, maka sistem akan menampilkan halaman untuk memilih data absensi yang ingin dilihat. Pilihannya antara lain pilihan kelas, semester, dan tanggal/ bulan/ tahun. Kemudian User menentukan pilihannya, selanjutnya tekan tombol “lihat”. Sistem akan menampilkan halaman daftar absensi sesuai dengan permintaan user. Jika pilihan tanggal dari user adalah hari libur maka system akan menampilkan pesan “Data Tidak Tersedia, karena bertepatan dengan hari libur sekolah”.
+
+
+== UC.20. View data absensi bulanan ==
+
+Actor: Admin, guru, petugas TU         
+
+Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi. Kemudian user memilih submenu “lihat” absensi. Kemudian pada submenu “lihat” absensi akan muncul pilihan submenu harian, bulanan, atau semesteran. User memilih bulanan, maka sistem akan menampilkan halaman untuk memilih data absensi yang ingin dilihat. Pilihannya antara lain pilihan kelas, semester, dan bulan/tahun. Kemudian User menentukan pilihannya, selanjutnya tekan tombol “lihat”. Sistem akan menampilkan halaman daftar absensi sesuai dengan permintaan user. Selanjutnya jika user memilih bulan dimana pada bulan tersebut sekolah libur selama satu bulan penuh, maka system menampilkan pesan “Data tidak tersedia”.
+
+== UC. 21. View data absensi semesteran ==
+
+Actor: Admin, guru, petugas TU   
+
+Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi. Kemudian user memilih submenu “lihat” absensi. Kemudian pada submenu “lihat” absensi akan muncul pilihan submenu harian, bulanan, atau semesteran. User memilih semesteran, maka sistem akan menampilkan halaman untuk memilih data absensi yang ingin dilihat. Pilihannya antara lain pilihan kelas, semester, dan tahun ajaran. Kemudian User menentukan pilihannya, selanjutnya tekan tombol “lihat”. Sistem akan menampilkan halaman daftar absensi sesuai dengan permintaan user. 
+
+
+== UC. 22. Cetak Rekap per hari ==
+ 
+Actor: Petugas TU   
+
+Petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi. Kemudian user memilih submenu “cetak” absensi. Kemudian pada submenu “cetak” absensi akan muncul pilihan submenu harian, bulanan, atau semesteran. User memilih harian, maka sistem akan menampilkan halaman untuk memilih data absensi yang ingin dicetak. Pilihannya antara lain pilihan semester, dan tahun ajaran. Kemudian User menentukan pilihannya, selanjutnya tekan tombol “cetak”. Sistem akan menampilkan terlebih dahulu halaman daftar absensi sesuai dengan permintaan user . Pada halaman tersebut terdapat tombol “cetak”. Sistem kemudian menampilkan pesan “Apakah anda ingin mencetak absensi hari ini?”, system memberikan pilihan bagi user “Ya” atau “Tidak”. Jika user memilih “Ya” maka system akan meneruskan ke Print Properties. User meneruskan untuk mencetak dokumen absensi tersebut. Jika user memilih “tidak” maka system akan menampilkan halaman cetak absensi kembali.
+
+             
+== UC. 23. Cetak Rekap per bulan ==
+
+Actor: Petugas TU         
+
+Petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi. Kemudian user memilih submenu “cetak” absensi. Kemudian pada submenu “cetak” absensi akan muncul pilihan submenu harian, bulanan, atau semesteran. User memilih bulanan, maka sistem akan menampilkan halaman untuk memilih data absensi yang ingin dicetak. Pilihannya antara lain pilihan kelas, bulan, dan tahun. Kemudian User menentukan pilihannya, selanjutnya tekan tombol “cetak”. Sistem akan menampilkan terlebih dahulu halaman daftar absensi sesuai dengan permintaan user . Pada halaman tersebut terdapat tombol “cetak”. Sistem kemudian menampilkan pesan “Apakah anda ingin mencetak absensi bulan …… tahun…..?”, system memberikan pilihan bagi user “Ya” atau “Tidak”. Jika user memilih “Ya” maka system akan meneruskan ke Print Properties. User meneruskan untuk mencetak dokumen absensi tersebut. Jika user memilih “tidak” maka system akan menampilkan halaman cetak absensi kembali.
+
+== UC. 24. Cetak Rekap per semester ==
+    
+Actor: Petugas TU
+
+Petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi. Kemudian user memilih submenu “cetak” absensi. Kemudian pada submenu “cetak” absensi akan muncul pilihan submenu harian, bulanan, atau semesteran. User memilih bulanan, maka sistem akan menampilkan halaman untuk memilih data absensi yang ingin dicetak. Pilihannya antara lain pilihan kelas, semester, dan tahun ajaran. Kemudian User menentukan pilihannya, selanjutnya tekan tombol “cetak”. Sistem akan menampilkan terlebih dahulu halaman daftar absensi sesuai dengan permintaan user . Pada halaman tersebut terdapat tombol “cetak”. User tekan “cetak”, maka sistem kemudian menampilkan pesan “Apakah anda ingin mencetak absensi semester …… tahun ajaran…..?”, dan system memberikan pilihan bagi user “Ya” atau “Tidak”. Jika user memilih “Ya” maka system akan meneruskan ke Print Properties. User meneruskan untuk mencetak dokumen absensi tersebut. Jika user memilih “tidak” maka system akan menampilkan halaman cetak absensi kembali.
 
 
 
@@ -176,5 +220,3 @@ Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memili
 Aktor : Admin (Administrator), Petugas TU
 
 Admin (Administrator) dan Petugas TU yang selanjutnya disebut pengguna memilih menu CETAK LAPORAN KONFIRMASI PER BULAN. Sistem akan menampilkan di layar daftar absensi siswa beserta status konfirmasi dari orang tua/ wali murid, juga terdapat pilihan untuk cetak di printer.
-
-
