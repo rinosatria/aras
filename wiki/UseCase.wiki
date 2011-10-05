@@ -99,3 +99,66 @@ Pada UC. 08 ini aktor yang terlibat antara lain :
 Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Siswa, kemudian memasukkan nama atau sebagian nama dari nama siswa di text field pencarian kemudian menekan tombol Tampil. Sistem kemudian akan mencari data user sesuai dengan isian text field pada tabel User, kemudian sistem akan menampilkan data dari user yang ditemukan.
 
 Apabila sistem tidak menemukan data siswa berdasarkan isian yang diisikan user pada text field pencarian, maka sistem akan memberitahukan user bahwa Siswa Tidak Ditemukan dan sistem akan mengembalikan user ke halaman Siswa.
+
+
+== UC.09 TAMBAH KELAS _(Add Kelas)_ ==
+
+Aktor : Admin (Administrator) 
+
+Admin memilih menu TAMBAH KELAS, kemudian mengisikan text field Nama Kelas sebanyak 3 karakter dan text field Guru Wali sebanyak 6 karakter lalu klik tombol simpan. Sistem akan memeriksa apakah kedua text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika salah satu atau keduanya kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika keduanya sudah terisi dengan benar maka sistem akan mencari apakah Nama Kelas sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa kelas sudah terdaftar, lalu admin mengisi ulang text field Nama Kelas atau membatalkan penambahan kelas. Jika Nama Kelas belum terdaftar di sistem, maka sistem akan memeriksa apakah Guru Wali sudah terdaftar di sistem sebagai salah satu pengguna, jika sudah maka sistem akan menyimpan data kelas yang baru ditambahkan, jika belum maka akan muncul peringatan bahwa Guru Wali belum terdaftar di sistem, lalu admin mengisi ulang text field Guru Wali atau membatalkan penambahan kelas.
+
+
+== UC.10 UBAH KELAS _(Edit Kelas)_ ==
+
+Aktor : Admin (Administrator) 
+
+Admin memilih menu UBAH KELAS, lalu mengubah isi text field Nama Kelas sebanyak 3 karakter dan atau text field Guru Wali sebanyak 6 karakter sesuai keinginan lalu menekan tombol simpan. Sistem akan memeriksa apakah kedua text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika salah satu atau keduanya kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika keduanya sudah terisi dengan benar maka sistem akan mencari apakah Nama Kelas sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa kelas sudah terdaftar, lalu admin mengisi ulang text field Nama Kelas atau membatalkan perubahan kelas. Jika Nama Kelas belum terdaftar di sistem, maka sistem akan memeriksa apakah Guru Wali sudah terdaftar di sistem sebagai salah satu pengguna, jika sudah maka sistem akan menyimpan data kelas yang baru diubah, jika belum maka akan muncul peringatan bahwa Guru Wali belum terdaftar di sistem, lalu admin mengisi ulang text field Guru Wali atau membatalkan perubahan kelas.
+
+
+== UC.11 LIHAT KELAS _(View Kelas)_ ==
+
+Aktor : Admin (Administrator), Petugas TU, Guru 
+
+Admin (Administrator), Petugas TU, Guru memilih menu LIHAT KELAS. Sistem akan menampilkan daftar kelas yang telah terdaftar berikut nama guru wali masing-masing kelas. Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH KELAS dan HAPUS KELAS.
+
+
+== UC.12 TAMBAH SEMESTER _(Add Semester)_ ==
+
+Aktor : Admin (Administrator) 
+
+Admin memilih menu TAMBAH SEMESTER, kemudian mengisikan text field Nama Semester sebanyak 1 karakter lalu klik tombol simpan. Sistem akan memeriksa apakah text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika sudah terisi dengan benar maka sistem akan mencari apakah Nama Semester sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa semester sudah terdaftar, lalu admin mengisi ulang text field Nama Semester atau membatalkan penambahan semester. Jika Nama Semester belum terdaftar di sistem, maka sistem akan menyimpan data semester yang baru ditambahkan.
+
+
+== UC.13 UBAH SEMESTER _(Edit Semester)_ ==
+
+Aktor : Admin (Administrator) 
+
+Admin memilih menu UBAH SEMESTER, kemudian mengubah isi text field Nama Semester sebanyak 1 karakter lalu klik tombol simpan. Sistem akan memeriksa apakah text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika sudah terisi dengan benar maka sistem akan mencari apakah Nama Semester sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa semester sudah terdaftar, lalu admin mengisi ulang text field Nama Semester atau membatalkan perubahan semester. Jika Nama Semester belum terdaftar di sistem, maka sistem akan menyimpan data semester yang baru diubah.
+
+
+==UC.14 LIHAT SEMESTER _(View Semester)_ ==
+
+Aktor : Admin (Administrator), Petugas TU, Guru 
+
+Admin (Administrator), Petugas TU, Guru memilih menu LIHAT SEMESTER. Sistem akan menampilkan daftar semester. Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH SEMESTER.
+
+
+== UC.15 Cetak data per siswa ==
+
+Aktor : Admin (Administrator), Petugas TU, Guru
+
+Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA PER SISWA. Sistem akan menampilkan data siswa sesuai dengan data yang tersimpan dalam sistem.
+
+
+== UC.16 Cetak data siswa per kelas ==
+
+Aktor : Admin (Administrator), Petugas TU, Guru
+
+Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER KELAS. Sistem akan menampilkan data siswa per kelas sesuai dengan data yang tersimpan dalam sistem.
+
+
+== UC.17 Cetak data siswa per tingkat ==
+
+Aktor : Admin (Administrator), Petugas TU, Guru
+
+Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER TINGKAT. Sistem akan menampilkan data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem.
