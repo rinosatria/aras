@@ -72,7 +72,7 @@ Pada UC. 06 ini aktor yang terlibat antara lain :
  # Guru
  # Pegawai Sekolah / TU
 
-Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Tambah Siswa, kemudian mengisikan text field data user yang terdiri dari NIS (Nomor Induk SIswa), Nama Siswa, Kelas(menu drop down), Semester(menu drop down), Nama Orang Tua, Alamat, Nomor Telepon Orang Tua kemudian dilanjutkan dengan menekan tombol Tambah. Sistem kemudian akan melakukan penyimpanan data-data yang sudah di masukkan di text field yang disediakan ke dalam tabel Siswa dan memberikan informasi bahwa Penambahan Siswa berhasil
+Admin, guru, petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Tambah Siswa, kemudian mengisikan text field data user yang terdiri dari NIS (Nomor Induk SIswa), Nama Siswa, Kelas(menu drop down), Semester(menu drop down), Nama Orang Tua, Alamat, Nomor Telepon Orang Tua, Tahun kemudian dilanjutkan dengan menekan tombol Tambah. Sistem kemudian akan melakukan penyimpanan data-data yang sudah di masukkan di text field yang disediakan ke dalam tabel Siswa dan memberikan informasi bahwa Penambahan Siswa berhasil
 
 Apabila user tidak melengkapi atau mengisi semua tex filed yang tersedia maka sistem akan menampilkan peringatan isian data tidak lengkap agar user melengkapi isian text field tersebut.
 
