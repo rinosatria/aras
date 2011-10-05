@@ -216,6 +216,11 @@ Aktor: Petugas TU
 Petugas TU sekolah selanjutnya disebut sebagai user berada pada halaman Absensi. Kemudian user memilih submenu “cetak” absensi. Kemudian pada submenu “cetak” absensi akan muncul pilihan submenu harian, bulanan, atau semesteran. User memilih bulanan, maka sistem akan menampilkan halaman untuk memilih data absensi yang ingin dicetak. Pilihannya antara lain pilihan kelas, semester, dan tahun ajaran. Kemudian User menentukan pilihannya, selanjutnya tekan tombol “cetak”. Sistem akan menampilkan terlebih dahulu halaman daftar absensi sesuai dengan permintaan user . Pada halaman tersebut terdapat tombol “cetak”. User tekan “cetak”, maka sistem kemudian menampilkan pesan “Apakah anda ingin mencetak absensi semester …… tahun ajaran…..?”, dan system memberikan pilihan bagi user “Ya” atau “Tidak”. Jika user memilih “Ya” maka system akan meneruskan ke Print Properties. User meneruskan untuk mencetak dokumen absensi tersebut. Jika user memilih “tidak” maka system akan menampilkan halaman cetak absensi kembali.
 
 
+== UC. 25. KIRIM SMS HARIAN ==
+
+Aktor: Petugas TU     
+
+Petugas TU selanjutnya disebut sebagai user berada pada halaman Konfirmasi SMS. Ketika User memilih menu Konfirmasi SMS, system akan menampilkan daftar siswa yang tidak masuk sekolah. Data-data yang ditampilkan antara lain nama siswa, kelas, alasan tidak masuk sekolah, serta nomor telepon genggam Walinya (Orangtua). Selanjutnya user menekan tombol “kirim”, system akan mengirimkan data berupa nama, kelas, serta alasan tidak masuk kelas ke masing-masing nomor telepon genggam para wali murid (orang tua). Umpan balik (balasan SMS) yang diterima system dari orang tua tentang kebenaran alasan tidak masuk sekolah (Ya atau Tidak)selanjutnya  akan disimpan oleh system.
 
 
 == UC.26 CETAK LAPORAN KONFIRMASI PER BULAN ==
