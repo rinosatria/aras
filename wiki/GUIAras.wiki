@@ -1,8 +1,14 @@
+#labels Featured
 = Sketsa GUI ARAS =
 
 Berikut ini adalah sketsa tampilan GUI yang akan digunakan untuk ARAS : 
 
 
-== UC.01 / *BOLD* ==
+== UC.01 / Login ==
 
 https://lh6.googleusercontent.com/-baF_5DrKGkE/TpB9dU2IK_I/AAAAAAAAABM/N7sMcpa4DCg/s335/ARAS_Login1.png
+
+
+== UC.02 / Logout ==
+
+https://lh5.googleusercontent.com/-Up9f2UJ6fLE/TpCDQ0rFhVI/AAAAAAAAABg/sImtgcvQzv8/s554/Logout1.png
