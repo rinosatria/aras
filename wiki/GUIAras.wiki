@@ -9,6 +9,13 @@ Berikut ini adalah sketsa tampilan GUI yang akan digunakan untuk ARAS :
 https://lh6.googleusercontent.com/-baF_5DrKGkE/TpB9dU2IK_I/AAAAAAAAABM/N7sMcpa4DCg/s335/ARAS_Login1.png
 
 
+
 == UC.02 / Logout ==
 
 https://lh5.googleusercontent.com/-Up9f2UJ6fLE/TpCDQ0rFhVI/AAAAAAAAABg/sImtgcvQzv8/s554/Logout1.png
+
+
+
+== UC.03 / Tambah Pengguna _(Add User)_ ==
+
+https://lh6.googleusercontent.com/-_8uDRydhLso/TpCJCpbn4_I/AAAAAAAAAB0/Q25EYCy7ojQ/s581/Add%252520User1.png
