@@ -1,0 +1,8 @@
+= Sketsa GUI ARAS =
+
+Berikut ini adalah sketsa tampilan GUI yang akan digunakan untuk ARAS : 
+
+
+== UC.01 / *BOLD* ==
+
+https://lh6.googleusercontent.com/-baF_5DrKGkE/TpB9dU2IK_I/AAAAAAAAABM/N7sMcpa4DCg/s335/ARAS_Login1.png
