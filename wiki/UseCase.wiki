@@ -234,14 +234,18 @@ Admin (Administrator) dan Petugas TU yang selanjutnya disebut pengguna memilih m
 
 Aktor : Admin (Administrator)
 
-Admin memilih menu HAPUS PENGGUNA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data pengguna tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data pengguna tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan pengguna. 
+Pada halaman pengguna, Admin memilih salah satu pengguna atau seluruh penggguna kemudian menekan tombol HAPUS, kemudian sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah Admin yakin akan menghapus pengguna tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data pengguna tersebut dari sistem. 
+
+Apabila Admin memilih tombol BATAL, maka sistem akan membatalkan proses penghapusan pengguna dan mengembalikan Admin ke halaman pengguna. 
 
 
 == UC.28 HAPUS SISWA _(Delete Siswa)_ ==
 
 Aktor : Admin (Administrator)
 
-Admin memilih menu HAPUS SISWA, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah pengguna yakin akan menghapus seluruh data siswa tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data siswa tersebut dari sistem. Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan siswa.
+Admin berada pada halaman Siswa, kemudian Admin menekan tombol HAPUS, sistem akan menampilkan sebuah dialog box yang berisi pertanyaan apakah Admin yakin akan menghapus seluruh data siswa tersebut dari sistem. Jika admin memilih tombol OK maka sistem akan menghapus semua data siswa tersebut dari sistem. 
+
+Jika Admin memilih BATAL, maka sistem akan membatalkan proses penghapusan siswa dan mengembalikan Admin ke halaman Siswa.
 
 
 == UC.29 HAPUS KELAS _(Delete Kelas)_ ==
