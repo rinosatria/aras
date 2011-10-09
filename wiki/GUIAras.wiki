@@ -24,3 +24,14 @@ https://lh3.googleusercontent.com/-0j_ugID44uI/TpGz1tCHEBI/AAAAAAAAACQ/AkCF_gzdq
 setelah masuk ke halaman utama dari menu *Pengguna* maka _User_ dapat memilih untuk menambah, mengubah, menghapus atau menayangkan data pengguna. Berikut ini adalah tampilan dari *Tambah Pengguna* :
 
 https://lh6.googleusercontent.com/-_8uDRydhLso/TpCJCpbn4_I/AAAAAAAAAB0/Q25EYCy7ojQ/s581/Add%252520User1.png
+
+
+== UC.06 / Tambah Siswa ==
+
+Untuk menu *Siswa* tampilan halaman utamanya adalah seperti dibawah ini :
+
+https://lh4.googleusercontent.com/-oGQ4fkVZ778/TpHCY-k_YmI/AAAAAAAAACk/PLbcXL4r-hE/s569/Siswa_home1.png
+
+dan untuk melakukan penambahan siswa, pengubahan data siswa, penghapusan data siswa dapat dilakukan dengan menekan tombol yang disediakan. Seperti gambar dibawah ini merupakan tampilan halaman *Tambah Siswa*
+
+https://lh3.googleusercontent.com/-otwUwolEAIQ/TpHH8zfqa1I/AAAAAAAAAC4/2OX5lTNmfHA/s568/Rekam%252520Siswa1.png
