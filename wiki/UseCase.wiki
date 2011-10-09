@@ -149,22 +149,22 @@ Admin (Administrator), Petugas TU, Guru memilih menu LIHAT SEMESTER. Sistem akan
 
 == UC.15 Cetak data per siswa ==
 
-Aktor : Admin (Administrator), Petugas TU, Guru
+Aktor : Petugas TU
 
-Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA PER SISWA. Sistem akan menampilkan di layar data siswa sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
+Petugas TU memilih menu CETAK DATA PER SISWA. Sistem akan menampilkan di layar data siswa sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 == UC.16 Cetak data siswa per kelas ==
 
-Aktor : Admin (Administrator), Petugas TU, Guru
+Aktor : Petugas TU
 
-Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER KELAS. Sistem akan menampilkan di layar data siswa per kelas sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
+Petugas TU memilih menu CETAK DATA SISWA PER KELAS. Sistem akan menampilkan di layar data siswa per kelas sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 
 == UC.17 Cetak data siswa per tingkat ==
 
-Aktor : Admin (Administrator), Petugas TU, Guru
+Aktor : Petugas TU
 
-Admin (Administrator), Petugas TU, Guru yang selanjutnya disebut pengguna memilih menu CETAK DATA SISWA PER TINGKAT. Sistem akan menampilkan di layar data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
+Petugas TU memilih menu CETAK DATA SISWA PER TINGKAT. Sistem akan menampilkan di layar data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 
 == UC.18 TAMBAH ABSENSI _(Add Absensi)_ ==
