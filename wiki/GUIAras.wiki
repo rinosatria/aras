@@ -16,7 +16,7 @@ https://lh5.googleusercontent.com/-Up9f2UJ6fLE/TpCDQ0rFhVI/AAAAAAAAABg/sImtgcvQz
 
 
 
-== UC.03 / Tambah Pengguna _(Add User)_ ==
+== Halaman Pengguna ==
 Untuk menu *Pengguna* tampilan halamannya adalah seperti dibawah ini :
 
 https://lh3.googleusercontent.com/-0j_ugID44uI/TpGz1tCHEBI/AAAAAAAAACQ/AkCF_gzdqN0/s581/User1.png
@@ -24,6 +24,8 @@ https://lh3.googleusercontent.com/-0j_ugID44uI/TpGz1tCHEBI/AAAAAAAAACQ/AkCF_gzdq
 setelah masuk ke halaman utama dari menu *Pengguna* maka _User_ dapat memilih untuk menambah, mengubah, menghapus atau menayangkan data pengguna. Berikut ini adalah tampilan dari *Tambah Pengguna* :
 
 https://lh6.googleusercontent.com/-_8uDRydhLso/TpCJCpbn4_I/AAAAAAAAAB0/Q25EYCy7ojQ/s581/Add%252520User1.png
+
+tampilan GUI di atas digunakan juga untuk *UC.03 / Tambah Pengguna _(Add User)_* , *UC.04 / Ubah Pengguna_(Edit User)*
 
 
 == UC.06 / Tambah Siswa ==
