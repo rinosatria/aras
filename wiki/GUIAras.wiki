@@ -95,3 +95,9 @@ tampilan GUI di atas juga dapat digunakan untuk *UC.06 Tambah Siswa* serta *UC.0
 == UC.31 / Pengaturan Tanggal ==
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/15G5BMpmom4cg4tXy3aq9Q?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-MB5Ii2uucuE/TpM1_X1IARI/AAAAAAAAAI4/mHvjMYgbSRw/s144/19.JPG" height="81" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
+
+== UC.32 / Ubah Data Absensi ==
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/MSIbBeTrrzLZ8h-C1ngldw?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-u35UaRxeyrE/TpMfBdA_GRI/AAAAAAAAAGc/BvvdAtWfnhc/s144/3.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/MO7Mjj_-KtruokEf0s9lbg?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-bsLvkhQwU8k/TpMfCjXSckI/AAAAAAAAAGg/yc3cAKLMsYo/s144/4.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
