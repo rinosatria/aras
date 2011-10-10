@@ -28,7 +28,7 @@ https://lh6.googleusercontent.com/-_8uDRydhLso/TpCJCpbn4_I/AAAAAAAAAB0/Q25EYCy7o
 tampilan GUI di atas digunakan juga untuk *UC.03 / Tambah Pengguna _(Add User)_* , *UC.04 / Ubah Pengguna_(Edit User)*
 
 
-== UC.06 / Tambah Siswa ==
+== Halaman Siswa ==
 
 Untuk menu *Siswa* tampilan halaman utamanya adalah seperti dibawah ini :
 
@@ -37,3 +37,5 @@ https://lh4.googleusercontent.com/-oGQ4fkVZ778/TpHCY-k_YmI/AAAAAAAAACk/PLbcXL4r-
 dan untuk melakukan penambahan siswa, pengubahan data siswa, penghapusan data siswa dapat dilakukan dengan menekan tombol yang disediakan. Seperti gambar dibawah ini merupakan tampilan halaman *Tambah Siswa*
 
 https://lh3.googleusercontent.com/-otwUwolEAIQ/TpHH8zfqa1I/AAAAAAAAAC4/2OX5lTNmfHA/s568/Rekam%252520Siswa1.png
+
+tampilan GUI di atas juga dapat digunakan untuk *UC.06 Tambah Siswa* serta *UC.07 Edit Siswa* serta *UC.28 Hapus Pengguna*
