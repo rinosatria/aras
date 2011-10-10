@@ -41,6 +41,45 @@ https://lh3.googleusercontent.com/-otwUwolEAIQ/TpHH8zfqa1I/AAAAAAAAAC4/2OX5lTNmf
 tampilan GUI di atas juga dapat digunakan untuk *UC.06 Tambah Siswa* serta *UC.07 Edit Siswa* serta *UC.28 Hapus Pengguna*
 
 
+== UC.09 Tambah Kelas ==
+
+https://lh3.googleusercontent.com/-jwPpQNMD-b0/TpMpPuTdUSI/AAAAAAAAAAg/-Z9PRG_mnaE/s800/uc%25252009%252520tambah%252520kelas.JPG
+
+== UC.10 Ubah Kelas ==
+
+https://lh5.googleusercontent.com/-ukfm3xlWbtg/TpMpP8h-L3I/AAAAAAAAAAk/izDLI_APj8M/s800/uc%25252010%252520ubah%252520kelas.JPG
+
+== UC.11 Lihat Kelas ==
+
+https://lh6.googleusercontent.com/-jFLTBLatQXo/TpMpRVHFBoI/AAAAAAAAAAo/-74sud1hB4c/s800/uc%25252011%252520lihat%252520kelas.JPG
+
+secara otomatis menampilkan daftar semua kelas.
+
+== UC.12 Tambah Semester ==
+
+https://lh6.googleusercontent.com/-vhK0IU26lro/TpMpbnYEhXI/AAAAAAAAAAs/zJYW5S2SGuk/s800/uc%25252012%252520tambah%252520semester.JPG
+
+== UC.13 Ubah Semester ==
+
+https://lh6.googleusercontent.com/-pukfX_ZUFD4/TpMpcatlPnI/AAAAAAAAAAw/W2PZsJmEVNI/s800/uc%25252013%252520ubah%252520semester.JPG
+
+== UC.14 Lihat Semester ==
+
+https://lh6.googleusercontent.com/-Zw4BV1Y-TSQ/TpMpc9VjFtI/AAAAAAAAAA0/drHad4qCSCk/s800/uc%25252014%252520lihat%252520semester.JPG
+
+== UC.15 Cetak Data Per Siswa ==
+
+https://lh3.googleusercontent.com/-PU14ypVNiUk/TpMph3bgCXI/AAAAAAAAAA4/U6oH6UZGS6c/s800/uc%25252015%252520cetak%252520data%252520per%252520siswa.JPG
+
+== UC.16 Cetak Data Siswa Per Kelas ==
+
+https://lh4.googleusercontent.com/-4yMvfebXBG0/TpMpibpfLiI/AAAAAAAAAA8/QEYpS6yTMHc/s800/uc%25252016%252520cetak%252520data%252520siswa%252520per%252520kelas.JPG
+
+== UC.17 Cetak Data Siswa Per Tingkat ==
+
+https://lh6.googleusercontent.com/-nK9-3X7buvE/TpMpjPo-mGI/AAAAAAAAABA/-aD_ocy2gt0/s800/uc%25252017%252520cetak%252520data%252520siswa%252520per%252520tingkat.JPG
+
+
 == UC.18/ Add/Tambah Absensi ==
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/L5biBOkKdabcilJSfBh9_Q?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-5AhFbGCulZE/TpMfAyXQmNI/AAAAAAAAAGY/HOVhql7UPbM/s144/1.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
@@ -91,6 +130,21 @@ tampilan GUI di atas juga dapat digunakan untuk *UC.06 Tambah Siswa* serta *UC.0
 == UC.25 / Konfirmasi SMS ==
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/WWUlXk-cwzi6a27GyOTv8A?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-V9DCmCC1f4U/TpMfKNXArUI/AAAAAAAAAHU/1ox33WDMwt0/s144/17.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
+
+
+== UC.26 Laporan Konfirmasi Bulanan ==
+
+https://lh5.googleusercontent.com/-_-pWb4yS3cM/TpMplu9LkDI/AAAAAAAAABI/gvUNs6j96l4/s800/uc%25252026%252520cetak%252520konfirmasi%252520bulanan.JPG
+
+
+
+== UC.29 Hapus Kelas ==
+
+https://lh4.googleusercontent.com/-eYRRoVFU1Js/TpMpksOmLFI/AAAAAAAAABE/R63njWPKPhA/s800/uc%25252029%252520hapus%252520kelas.JPG
+
+== UC.30 Hapus Semester ==
+
+https://lh6.googleusercontent.com/-WUimnmP0DvQ/TpMpmE06FmI/AAAAAAAAABM/fjUcEqvGxxo/s800/uc%25252030%252520hapus%252520semester.JPG
 
 
 == UC.31 / Pengaturan Tanggal ==
