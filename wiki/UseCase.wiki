@@ -273,4 +273,4 @@ Admin memilih menu PENGATURAN TANGGAL, lalu memilih tanggal libur sekolah lalu m
 
 Aktor : Admin (Administrator), Guru
 
-Admin atau Guru  selanjutnya disebut sebagai user berada pada menu absensi siswa. Kemudian user memilih submenu "ubah", sistem akan meneruskan ke halaman ubah data absensi. Kemudian user memilih nama kelas dan tanggal dari data absensi yang akan diubah, kemudian tekan tombol "pilih", maka sistem akan mengarahkan kehalaman edit data siswa sesuai dengan permintaan user. Kemudian user melakukan perubahan data, kemudian tekan tombol "simpan". Selanjutnya  sistem akan menyimpan data yang telah diubah tersebut.
+Admin atau Guru  selanjutnya disebut sebagai user berada pada menu absensi siswa. Kemudian user memilih submenu "ubah", sistem akan meneruskan ke halaman ubah data absensi. Kemudian user memilih nama kelas dan tanggal dari data absensi yang akan diubah, kemudian tekan tombol "pilih", maka sistem akan mengarahkan kehalaman edit data siswa sesuai dengan permintaan user. Kemudian user melakukan perubahan data, kemudian tekan tombol "ubah". Selanjutnya  sistem akan menyimpan data yang telah diubah tersebut.
