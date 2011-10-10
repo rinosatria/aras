@@ -107,6 +107,8 @@ Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH SISWA d
 
 == UC.09 TAMBAH KELAS _(Add Kelas)_ ==
 
+== UC.09 TAMBAH KELAS _(Add Kelas)_ ==
+
 Aktor : Admin (Administrator) 
 
 Admin memilih menu TAMBAH KELAS, kemudian mengisikan text field Nama Kelas sebanyak 3 karakter dan text field Guru Wali sebanyak 6 karakter lalu klik tombol simpan. Sistem akan memeriksa apakah kedua text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika salah satu atau keduanya kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika keduanya sudah terisi dengan benar maka sistem akan mencari apakah Nama Kelas sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa kelas sudah terdaftar, lalu admin mengisi ulang text field Nama Kelas atau membatalkan penambahan kelas. Jika Nama Kelas belum terdaftar di sistem, maka sistem akan memeriksa apakah Guru Wali sudah terdaftar di sistem sebagai salah satu pengguna, jika sudah maka sistem akan menyimpan data kelas yang baru ditambahkan, jika belum maka akan muncul peringatan bahwa Guru Wali belum terdaftar di sistem, lalu admin mengisi ulang text field Guru Wali atau membatalkan penambahan kelas.
@@ -123,48 +125,48 @@ Admin memilih menu UBAH KELAS, lalu mengubah isi text field Nama Kelas sebanyak 
 
 Aktor : Admin (Administrator), Petugas TU, Guru 
 
-Admin (Administrator), Petugas TU, Guru memilih menu LIHAT KELAS. Sistem akan menampilkan daftar kelas yang telah terdaftar berikut nama guru wali masing-masing kelas. Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH KELAS dan HAPUS KELAS.
+Admin (Administrator), Petugas TU, Guru memilih menu LIHAT KELAS, kemudian memilih kelas yang akan ditampilkan. Sistem akan menampilkan daftar kelas yang telah terdaftar berikut nama guru wali masing-masing kelas. Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH KELAS dan HAPUS KELAS.
 
 
 == UC.12 TAMBAH SEMESTER _(Add Semester)_ ==
 
 Aktor : Admin (Administrator) 
 
-Admin memilih menu TAMBAH SEMESTER, kemudian mengisikan text field Nama Semester sebanyak 1 karakter lalu klik tombol simpan. Sistem akan memeriksa apakah text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika sudah terisi dengan benar maka sistem akan mencari apakah Nama Semester sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa semester sudah terdaftar, lalu admin mengisi ulang text field Nama Semester atau membatalkan penambahan semester. Jika Nama Semester belum terdaftar di sistem, maka sistem akan menyimpan data semester yang baru ditambahkan.
+Admin memilih menu TAMBAH SEMESTER, kemudian memilih Nama Semester sebanyak 6 karakter, mengisi tahun lalu memilih tanggal aktifnya semester tersebut, lalu klik tombol simpan. Sistem akan memeriksa apakah text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika sudah terisi dengan benar maka sistem akan mencari apakah Nama Semester sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa semester sudah terdaftar, lalu admin mengisi ulang text field Nama Semester atau membatalkan penambahan semester. Jika Nama Semester belum terdaftar di sistem, maka sistem akan menyimpan data semester yang baru ditambahkan.
 
 
 == UC.13 UBAH SEMESTER _(Edit Semester)_ ==
 
 Aktor : Admin (Administrator) 
 
-Admin memilih menu UBAH SEMESTER, kemudian mengubah isi text field Nama Semester sebanyak 1 karakter lalu klik tombol simpan. Sistem akan memeriksa apakah text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika sudah terisi dengan benar maka sistem akan mencari apakah Nama Semester sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa semester sudah terdaftar, lalu admin mengisi ulang text field Nama Semester atau membatalkan perubahan semester. Jika Nama Semester belum terdaftar di sistem, maka sistem akan menyimpan data semester yang baru diubah.
+Admin memilih menu UBAH SEMESTER, kemudian mengubah isi text field Nama Semester sebanyak 6 karakter dan atau tahun dan atau tanggal lalu klik tombol simpan. Sistem akan memeriksa apakah text field sudah terisi dengan karakter yang sesuai dengan pengaturan, jika kosong atau tidak sesuai dengan pengaturan akan muncul peringatan untuk mengisi sesuai dengan petunjuk. Jika sudah terisi dengan benar maka sistem akan mencari apakah Nama Semester sudah terdapat pada sistem, jika sudah maka akan muncul peringatan bahwa semester sudah terdaftar, lalu admin mengisi ulang text field Nama Semester atau membatalkan perubahan semester. Jika Nama Semester belum terdaftar di sistem, maka sistem akan menyimpan data semester yang baru diubah.
 
 
 ==UC.14 LIHAT SEMESTER _(View Semester)_ ==
 
 Aktor : Admin (Administrator), Petugas TU, Guru 
 
-Admin (Administrator), Petugas TU, Guru memilih menu LIHAT SEMESTER. Sistem akan menampilkan daftar semester. Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH SEMESTER.
+Admin (Administrator), Petugas TU, Guru memilih menu LIHAT SEMESTER. Sistem akan menampilkan daftar semester beserta tanggal aktif semester tersebut. Khusus untuk Admin, sistem memberikan tambahan fasilitas untuk bisa UBAH SEMESTER dan HAPUS SEMESTER.
 
 
 == UC.15 Cetak data per siswa ==
 
 Aktor : Petugas TU
 
-Petugas TU memilih menu CETAK DATA PER SISWA. Sistem akan menampilkan di layar data siswa sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
+Petugas TU memilih menu CETAK DATA PER SISWA, mencari siswa dengan kata kunci nomor induk atau nama siswa. Sistem akan menampilkan di layar hasil pencarian data siswa sesuai dengan data yang tersimpan dalam sistem. Petugas TU lalu memilih siswa mana yang akan dicetak datanya. Sistem akan menampilkan data siswa tersebut di layar dan juga terdapat pilihan untuk cetak di printer.
 
 == UC.16 Cetak data siswa per kelas ==
 
 Aktor : Petugas TU
 
-Petugas TU memilih menu CETAK DATA SISWA PER KELAS. Sistem akan menampilkan di layar data siswa per kelas sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
+Petugas TU memilih menu CETAK DATA SISWA PER KELAS, memilih kelas apa yang akan ditayangkan. Sistem akan menampilkan di layar data siswa per kelas sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 
 == UC.17 Cetak data siswa per tingkat ==
 
 Aktor : Petugas TU
 
-Petugas TU memilih menu CETAK DATA SISWA PER TINGKAT. Sistem akan menampilkan di layar data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
+Petugas TU memilih menu CETAK DATA SISWA PER TINGKAT, memilih tingkat berapa yang akan ditayangkan. Sistem akan menampilkan di layar data siswa per tingkat sesuai dengan data yang tersimpan dalam sistem, juga terdapat pilihan untuk cetak di printer.
 
 
 == UC.18 TAMBAH ABSENSI _(Add Absensi)_ ==
@@ -225,9 +227,9 @@ Petugas TU selanjutnya disebut sebagai user berada pada halaman Konfirmasi SMS. 
 
 == UC.26 CETAK LAPORAN KONFIRMASI PER BULAN ==
 
-Aktor : Admin (Administrator), Petugas TU
+Aktor : Petugas TU
 
-Admin (Administrator) dan Petugas TU yang selanjutnya disebut pengguna memilih menu CETAK LAPORAN KONFIRMASI PER BULAN. Sistem akan menampilkan di layar daftar absensi siswa beserta status konfirmasi dari orang tua/ wali murid, juga terdapat pilihan untuk cetak di printer.
+Petugas TU memilih menu CETAK LAPORAN KONFIRMASI PER BULAN, memilih bulan dan tahun berapa yang akan dicetak. Sistem akan menampilkan di layar daftar absensi siswa beserta status konfirmasi dari orang tua/ wali murid, juga terdapat pilihan untuk cetak di printer.
 
 
 == UC.27 HAPUS PENGGUNA _(Delete User)_ ==
@@ -271,6 +273,6 @@ Admin memilih menu PENGATURAN TANGGAL, lalu memilih tanggal libur sekolah lalu m
 
 == UC.32 UBAH DATA ABSENSI ==
 
-Aktor : Admin (Administrator), Guru
+Aktor : Petugas TU
 
-Admin atau Guru  selanjutnya disebut sebagai user berada pada menu absensi siswa. Kemudian user memilih submenu "ubah", sistem akan meneruskan ke halaman ubah data absensi. Kemudian user memilih nama kelas dan tanggal dari data absensi yang akan diubah, kemudian tekan tombol "pilih", maka sistem akan mengarahkan kehalaman edit data siswa sesuai dengan permintaan user. Kemudian user melakukan perubahan data, kemudian tekan tombol "ubah". Selanjutnya  sistem akan menyimpan data yang telah diubah tersebut.
+Petugas TU memilih menu UBAH DATA ABSENSI lalu memilih tanggal berapa dan dari kelas apa absensi yang akan diubah data absensinya. Sistem akan menampilkan daftar absensi pada tanggal dan kelas yang telah dipilih. Petugas TU kemudian mengubah data yang perlu dilakukan perbaikan misalnya saja mengenai alasan absensi salah satu siswa yang tidak hadir tanpa keterangan diubah menjadi sakit setelah melampirkan surat keterangan dari dokter, lalu menekan tombol simpan. Sistem akan menyimpan data baru dan menimpa data sebelum diubah.
