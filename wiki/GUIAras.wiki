@@ -43,7 +43,9 @@ tampilan GUI di atas juga dapat digunakan untuk *UC.06 Tambah Siswa* serta *UC.0
 
 == UC.18/ Add/Tambah Absensi ==
 
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/L5biBOkKdabcilJSfBh9_Q?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-5AhFbGCulZE/TpMfAyXQmNI/AAAAAAAAAGY/HOVhql7UPbM/s144/1.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
 
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/KRhQMrD07BQ148XWPD-QNg?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-5ugTIw5m5WY/TpMfASqiA5I/AAAAAAAAAGU/FdcAUb8_Fmk/s144/2.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
 
 == UC.25 / Konfirmasi SMS ==
 
