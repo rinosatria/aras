@@ -41,8 +41,10 @@ https://lh3.googleusercontent.com/-otwUwolEAIQ/TpHH8zfqa1I/AAAAAAAAAC4/2OX5lTNmf
 tampilan GUI di atas juga dapat digunakan untuk *UC.06 Tambah Siswa* serta *UC.07 Edit Siswa* serta *UC.28 Hapus Pengguna*
 
 
-== UC.25 / Konfirmasi SMS ==
+== UC.18/ Add/Tambah Absensi ==
 
-https://picasaweb.google.com/lh/photo/937LZ8PeJ5VZwC48YAzW_g?feat=directlink
+
+
+== UC.25 / Konfirmasi SMS ==
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/937LZ8PeJ5VZwC48YAzW_g?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-gGGjIK61yTE/TpMe_09G18I/AAAAAAAAAGQ/49Th9gBu_4c/s144/18.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
