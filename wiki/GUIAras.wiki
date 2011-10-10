@@ -25,7 +25,7 @@ setelah masuk ke halaman utama dari menu *Pengguna* maka _User_ dapat memilih un
 
 https://lh6.googleusercontent.com/-_8uDRydhLso/TpCJCpbn4_I/AAAAAAAAAB0/Q25EYCy7ojQ/s581/Add%252520User1.png
 
-tampilan GUI di atas digunakan juga untuk *UC.03 / Tambah Pengguna _(Add User)_* , *UC.04 / Ubah Pengguna_(Edit User)*
+tampilan GUI di atas digunakan juga untuk *UC.03 / Tambah Pengguna _(Add User)_* , *UC.04 / Ubah Pengguna_(Edit User)* serta *UC.27 Hapus Pengguna*
 
 
 == Halaman Siswa ==
