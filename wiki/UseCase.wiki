@@ -267,3 +267,10 @@ Admin memilih menu HAPUS SEMESTER, sistem akan menampilkan sebuah dialog box yan
 Aktor : Admin (Administrator)
 
 Admin memilih menu PENGATURAN TANGGAL, lalu memilih tanggal libur sekolah lalu menekan tombol simpan. Sistem akan menyimpan data tersebut sehingga sistem secara otomatis akan melewati tanggal yang telah diatur sebagai hari libur pada saat pengisian absensi.
+
+
+== UC.32 UBAH DATA ABSENSI ==
+
+Aktor : Admin (Administrator), Guru
+
+Admin atau Guru  selanjutnya disebut sebagai user berada pada menu absensi siswa. Kemudian user memilih submenu "ubah", sistem akan meneruskan ke halaman ubah data absensi. Kemudian user memilih nama kelas dan tanggal dari data absensi yang akan diubah, kemudian tekan tombol "pilih", maka sistem akan mengarahkan kehalaman edit data siswa sesuai dengan permintaan user. Kemudian user melakukan perubahan data, kemudian tekan tombol "simpan". Selanjutnya  sistem akan menyimpan data yang telah diubah tersebut.
