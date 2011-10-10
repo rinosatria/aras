@@ -74,14 +74,14 @@ tampilan GUI di atas juga dapat digunakan untuk *UC.06 Tambah Siswa* serta *UC.0
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/oAUT0LqCmtthZQfvTeuQAA?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-iCo2cBJ4YyA/TpMfG7ift7I/AAAAAAAAAHA/BBnTn4lSdag/s144/12.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
 
 
-== UC.23 / Cetak Rekap Absensi Bulanan==
+== UC.23 / Cetak Rekap Per Bulan==
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/t-_i6YqP0NBF7Ob6V-TNyQ?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-aWmFQcpyiW0/TpMfH3S9S2I/AAAAAAAAAHE/a72cGCRIwCU/s144/13.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/OuocE3vr4oWQP0t5UIrL2g?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-cISYLGrPyWU/TpMfI8pfkDI/AAAAAAAAAHI/w5vDjCheNh0/s144/14.JPG" height="82" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
 
 
-== UC.24 / Cetak Rekap Absensi Semesteran==
+== UC.24 / Cetak Rekap Per Semester==
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/sMsYQGkBwauzzQfwHzCNNg?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-jGTGQX7fv5w/TpMfJsDsALI/AAAAAAAAAHQ/_FqPgvcw8rg/s144/16.JPG" height="83" width="144" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/mohamad.komara/GUI_ARAS_UC18UC26?authuser=0&feat=embedwebsite">GUI_ARAS_UC.18-UC.26</a></td></tr></table>
 
